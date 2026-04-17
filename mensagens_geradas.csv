@@ -1,0 +1,6 @@
+id,nome,conta,cartao,limite,mensagem
+1,João Silva,123456,1111-2222-3333-4444,3500.00,"Olá, João Silva! Identificamos que seu perfil atual é premium. Seu limite disponível é de R$ 3500.00. Você tem acesso a condições especiais de investimento e crédito."
+2,Maria Santos,789012,5555-6666-7777-8888,2500.00,"Olá, Maria Santos! Identificamos que seu perfil atual é intermediário. Seu limite disponível é de R$ 2500.00. Você pode aproveitar novas opções de parcelamento e benefícios exclusivos."
+3,Pedro Oliveira,345678,9999-0000-1111-2222,1500.00,"Olá, Pedro Oliveira! Identificamos que seu perfil atual é básico. Seu limite disponível é de R$ 1500.00. Temos sugestões para ajudar você a organizar melhor sua vida financeira."
+4,Ana Costa,901234,3333-4444-5555-6666,4000.00,"Olá, Ana Costa! Identificamos que seu perfil atual é premium. Seu limite disponível é de R$ 4000.00. Você tem acesso a condições especiais de investimento e crédito."
+5,Carlos Ferreira,567890,7777-8888-9999-0000,1200.00,"Olá, Carlos Ferreira! Identificamos que seu perfil atual é básico. Seu limite disponível é de R$ 1200.00. Temos sugestões para ajudar você a organizar melhor sua vida financeira."
